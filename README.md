@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @tanmaybugge
 - 👀 I’m interested in making connection with like minded peoples who will like to help each other's growth in community.
-- 🌱 I’m currently studying my UGC in Artificial Inttelligence and Data Science (2021-25).
+- 🌱 I’m currently studying my UGC in B.Tech Computer Science (2021-26).
 - 💞️ I’m looking to collaborate with amazing peoples like you.
 - 📫 How to reach me : Instagram https://wwww.intagram.com/@tanmay_bugge
                        Twitter https://wwww.twitter.com/@tanmay_bugge
-                       Facebook https://wwww.facebook.com/tanmaybugge
+                       LinkedIn https://wwww.linkedin.com/tanmay_bugge
 - Mail : buggetanmay@gmail.com
 
 
