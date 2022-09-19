@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with amazing peoples like you.
 - 📫 How to reach me : Instagram https://www.instagram.com/tanmay_bugge
                        Twitter https://www.twitter.com/@tanmay_bugge
-                       LinkedIn https://www.linkedin.com/@tanmay_bugge
+                       LinkedIn https://www.linkedin.com/in/tanmay-bugge-18a23b226/
 - Mail : buggetanmay@gmail.com
 
 
