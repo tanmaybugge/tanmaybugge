@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tanmay_bugge" target="blank"><img src="https://img.shields.io/twitter/follow/tanmay_bugge?logo=twitter&style=for-the-badge" alt="tanmay_bugge" /></a> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development, Java, C++, Python, Flutter, AWS**
+- 🌱 I’m currently learning **Full-Stack Web Development, Java, C++, Python**
 
 - 📫 How to reach me **buggetanmay@gmail.com**
 
